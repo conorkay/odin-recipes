@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    font-family: monospace;
+}
+
+img {
+    color: red;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 400px;
+}
+
+h1 {
+    color: rgb(73, 201, 240);
+    background-color: bisque;
+}
+
+ul {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: rgb(207, 81, 245);
+    color: yellow;
+}
+
+ol {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: rgb(8, 4, 73);
+    color: rgb(95, 238, 90);
+}
